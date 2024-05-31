@@ -1,7 +1,7 @@
 
 # Clipboard to Excel v1.0
 
-![Application Screenshot](https://github.com/mohabhui/lang_python/blob/main/_gui_images/clipboard_to_excel.png?raw=true)
+![Application Screenshot](https://github.com/mohabhui/resources/blob/main/images/clipboard_to_excel.png?raw=true)
 
 ## Overview
 This application allows you to monitor your clipboard content, select tags from an Excel sheet, and write clipboard data to specific cells in the Excel file. It provides a graphical user interface (GUI) to facilitate these tasks.
