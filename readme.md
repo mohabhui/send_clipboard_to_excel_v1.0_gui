@@ -6,7 +6,7 @@
 ## Overview
 This application allows you to monitor your clipboard content, select tags from an Excel sheet, and write clipboard data to specific cells in the Excel file. It provides a graphical user interface (GUI) to facilitate these tasks.
 
-## Important! DO NOT open the target excel file when the application is running; Data will not be saved to target excel file if it is opened before the application is closed. Important!
+### Important! DO NOT open the target excel file when the application is running; Data will not be saved to target excel file if it is opened before the application is closed. Important!
 
 ## Configuration
 The application requires a configuration file named `config.json` which should be placed in the same directory as the application. This configuration file contains necessary information about the Excel file and the sheets to interact with.
